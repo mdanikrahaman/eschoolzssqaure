@@ -1,1 +1,3 @@
-Please open installation folder and follow installation procedures
+Developed for ZsSqaure, Inc. Pakistan
+
+Team Lead Md Anik Rahaman
